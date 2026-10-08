@@ -3,7 +3,7 @@
 Herzlich Willkommen auf der **Bio Partner Schweiz AG** Github Organisation.
 
 Die **Bio Partner Schweiz AG** arbeitet mit einer vielfältigen Applikations- und Integrationslandschaft.
-Diese GitHub Organisation unterstützt die Entwicklung, Integration und Weiterentwicklung von Softwarelösungen für die **Bio Partner Schweiz AG**.
+Diese GitHub Organisation unterstützt die Entwicklung und Integration von Softwarelösungen für die **Bio Partner Schweiz AG**.
 
 🌐 **Unternehmenswebsite:** https://www.biopartner.ch
 
